@@ -1,4 +1,4 @@
-# amazonDRS
+# Working Amazon DRS for Adafruit Feather M0 WiFi
 
 # Getting Started
 This repo is intended to serve as an Arduino library aimed at getting started with Amazon's [Dash Replenishment Service](https://developer.amazon.com/dash-replenishment-service)! Amazon currently has some great [DRS documentation](https://developer.amazon.com/public/solutions/devices/dash-replenishment-service/) that I'll reference in this guide although currently offers nothing directed towards Arduino and the DIY hacker community. This guide is meant to supplement Amazon's documentation with a focus on implementing the API on [WiFi101](https://www.arduino.cc/en/Reference/WiFi101) or [ESP8266](https://github.com/esp8266/Arduino) enabled Arduinos! This includes the [ArduinoMKR1000](https://www.arduino.cc/en/Main/ArduinoMKR1000), an Arduino sporting the [WiFi101 shield](https://www.arduino.cc/en/Main/ArduinoWiFiShield101), an [Adafruit MO WiFi Feather](https://www.adafruit.com/product/3010), Adafruit Feather Huzzah ESP8266, or really any Arduino with sufficient space and TLS capable WiFi.
