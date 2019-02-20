@@ -5,7 +5,7 @@ AmazonDRS DRS = AmazonDRS();
 
 //WiFi creds ----------------------------------------------------------------------------------
 char ssid[] = "Jay’s iPhone"; //  your network SSID
-char pass[] = "cse321proj3";    // your network password
+char pass[] = "";    // your network password
 //------------------------------------------------------------------------------------------------------
 
 #define slotNumber1 1 //This will vary for multi slot devices - dash buttons typically only serve one product/slot
