@@ -42,7 +42,7 @@ AmazonDRS DRS = AmazonDRS();
 
 //WiFi creds ----------------------------------------------------------------------------------
 char ssid[] = "Jay’s iPhone"; //  your network SSID (name)
-char pass[] = "cse321proj3";    // your network password (use for WPA, or use as key for WEP)
+char pass[] = "";    // your network password (use for WPA, or use as key for WEP)
 //------------------------------------------------------------------------------------------------------
 
 //Extract the code from the response during the LWA process, example response below
